@@ -64,8 +64,8 @@ O servidor lida com as seguintes rotas:
    ```
 
 4. Acesse:
-   - Listar todos os episódios: `http://localhost:3000/episodes`
-   - Filtrar episódios: `http://localhost:3000/episodes/filter?podcastName=flow`
+   - Listar todos os episódios: `http://localhost:3333/api/list`
+   - Filtrar episódios: `http://localhost:3333/api/episode?p=flow`
 
 
 
