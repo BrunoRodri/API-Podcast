@@ -60,7 +60,7 @@ O servidor lida com as seguintes rotas:
    ```
 3. Rode o servidor:
    ```bash
-   npm run start
+   npm run start:dev
    ```
 
 4. Acesse:
