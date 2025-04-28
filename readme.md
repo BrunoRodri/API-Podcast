@@ -1,7 +1,3 @@
-Claro! Com base no que você descreveu e no trecho de código que enviou, aqui está um README inicial e bem estruturado para a sua aplicação **Podcast Manager**:
-
----
-
 # 🎙️ Podcast Manager
 
 ## Descrição
